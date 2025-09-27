@@ -12,3 +12,4 @@ This video includes:
 
 ## 📂 Repository Structure
 Our repo is organized so each member’s work is easy to review:
+[ganttchart group 2 (1).pdf](https://github.com/user-attachments/files/22570326/ganttchart.group.2.1.pdf)
